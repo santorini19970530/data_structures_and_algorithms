@@ -1,0 +1,16 @@
+function EVEN(n)
+  if n mod 2 = 0
+    return true
+  end if
+  return false
+end function
+
+funciton SEC(n)
+  y = 2
+  for 1 <= i <= n do
+    if EVEN(i) then
+      y = y + i
+    end if
+  end for
+  return y
+end function

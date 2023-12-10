@@ -1,0 +1,27 @@
+if x^2 = 2, is x an integer?
+
+// for loop version
+function IsXInteger(n)
+  y = FALSE
+  for 1 <= i <= n do
+    if i^2 = n then
+      y = TRUE
+    end if
+  end for
+  return y
+end function
+
+// while loop version
+function IsXInteger(n)
+  y = FALSE
+  i = 1
+  while i^2 <= n then
+    if i^2 = n then
+      y = true
+    end if
+  i = i + 1
+  end while
+  return y
+end function
+
+
