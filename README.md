@@ -9,8 +9,8 @@ Implementation code algorithms and Data Structure
 | Topic | Name                                                |
 | :---: | --------------------------------------------------- |
 |   1   | [Problems, algorithms and flowcharts](./Topic0102/) |
-|   2   | Pseudocode                                          |
-|   3   | Vectors, stacks and queues                          |
+|   2   | [Pseudocode](./Topic0102/)                          |
+|   3   | [Vectors, stacks and queues](./Topic03/)            |
 |   4   | Data structures and Searching Data 1                |
 |   5   | Sorting Data I                                      |
 |   6   | What makes a good algorithm?                        |

@@ -1,0 +1,42 @@
+Given 48 toys and 42 candies. Most numbers of guests invited such that all toys and sweets are distributed equally is 6.
+
+  now the guests have siblings
+
+  | Guest | Siblings |
+  | :---: | :------: |
+  |   1   |    0     |
+  |   2   |    2     |
+  |   3   |    1     |
+  |   4   |    0     |
+  |   5   |    1     |
+  |   6   |    1     |
+
+  set N0 N1 N2, maximise N0 + N1 + N2
+
+  where N0 + 2N1 + 3N2 = 6
+
+  and N0 <= 2 , N1 <= 3, N2 <= 1
+
+---
+
+m0 = 2
+m1 = 3
+m2 = 1
+i = 0
+j = 0
+k = 0
+total = i + j + k
+
+for i <= m0 do
+  for j <= m1 do
+    for k <= m2 do
+      if i + 2 x j + 3 x k = 6 then
+        if i + j + k > total then
+          total = i + j + k
+        end if
+      end if
+    end for
+  end for
+end for
+
+return total
