@@ -8,7 +8,7 @@ Given the root node of a binary search tree and two integers low and high, retur
 
 Example 1:
 
-[Example 1]!(./938-1.jpeg)
+![Example 1](./938-1.jpeg)
 
     Input: root = [10,5,15,3,7,null,18], low = 7, high = 15
     Output: 32
@@ -16,7 +16,7 @@ Example 1:
 
 Example 2:
 
-[Example 2]!(./938-2.jpeg)
+![Example 2]!=(./938-2.jpeg)
 
     Input: root = [10,5,15,3,7,13,18,1,null,6], low = 6, high = 10
     Output: 23
