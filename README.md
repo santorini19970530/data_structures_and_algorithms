@@ -4,6 +4,7 @@ Challenge my life
 
 ## Easy
 
-| Number |                               Question Link                               |      Solution      |
-| :----: | :-----------------------------------------------------------------------: | :----------------: |
-|  136   | [Single Number](https://leetcode.com/problems/single-number/description/) | [Solution](./136/) |
+| Number |                                                Question Link                                                |      Solution      |
+| :----: | :---------------------------------------------------------------------------------------------------------: | :----------------: |
+|  136   |                  [Single Number](https://leetcode.com/problems/single-number/description/)                  | [Solution](./136/) |
+|  938   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/?envType=daily-question&envId=2024-01-08) | [Solution](./938/) |
