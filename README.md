@@ -6,4 +6,4 @@ Challenge my life
 
 | Number |                               Question Link                               |      Solution      |
 | :----: | :-----------------------------------------------------------------------: | :----------------: |
-|  136   | [Single Number](https://leetcode.com/problems/single-number/description/) | (Solution)[./136/] |
+|  136   | [Single Number](https://leetcode.com/problems/single-number/description/) | [Solution](./136/) |
