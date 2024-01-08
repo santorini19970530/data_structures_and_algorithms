@@ -24,7 +24,7 @@ Example 2:
 
 Constraints:
 
-- The number of nodes in the tree is in the range [1, 2 * 10^4^].
+- The number of nodes in the tree is in the range [1, 2 * $10^4$].
 
 - 1 <= Node.val <= $10^5$
 
