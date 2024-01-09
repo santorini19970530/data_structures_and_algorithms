@@ -33,3 +33,9 @@ Constraints:
 - All Node.val are unique
 
 # Source of solutions
+
+trial 1 - me
+
+trial 2 - me
+
+[reference video](https://www.youtube.com/watch?v=uLVG45n4Sbg)
