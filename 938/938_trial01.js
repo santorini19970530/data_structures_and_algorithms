@@ -1,4 +1,5 @@
 // trial 01
+// recursion of left and right tree items, skip unwanted items
 // 136 ms, beat 31.54% of candidate
 // 97.61 mb, beat 5.12% of candidate
 

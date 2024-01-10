@@ -1,6 +1,11 @@
 // trial 02
 // 105 ms, beat 97.57% of candidate
 // 96.36 mb, beat 75.56% of candidate
+// trial 02
+// recursion of left and right tree items, skip unwanted items
+// remove the result variable to save space
+// 105 ms, beat 97.81% of candidate
+// 96.4 mb, beat 77.62% of candidate
 
 /**
  * Definition for a binary tree node.

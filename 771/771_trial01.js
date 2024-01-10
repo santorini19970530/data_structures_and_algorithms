@@ -5,6 +5,7 @@
  */
 
 // leetcode 771
+// trial 1 - add a linked list of jewel, let the stones match one by one
 // runtime 71 ms, beat 12.47 of JavaScript candidates
 // memory 42.06 mb, beat 71.25 of JavaScript candidates
 var numJewelsInStones = function (jewels, stones) {
