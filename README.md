@@ -31,9 +31,17 @@
 
 ### ADS2 CM2035 Exercises
 
-| Topic | Name                        |
-| :---: | --------------------------- |
-|   5   | [HashTables](./HashTables/) |
+| Topic | Name                              |
+| :---: | --------------------------------- |
+|   1   | Analysis of Algoriths             |
+|   2   | Recursive Algorithms              |
+|   3   | Comparison Sorting Algorithms     |
+|   4   | Non-Comparison Sorting Algorithms |
+|   5   | [Hashings](./HashTables/)         |
+|   6   | Linked Lists                      |
+|   7   | Trees                             |
+|   8   | Heaps                             |
+|   9   | Graphs                            |
 
 ## Leetcode Challenges
 

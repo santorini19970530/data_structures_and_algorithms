@@ -34,8 +34,8 @@ Constraints:
 
 # Source of solutions
 
-trial 1 - [myself, JavaScript - recursion of left and right tree items, skip unwanted items]{930_trial01.js}
+trial 1 - [myself, JavaScript - recursion of left and right tree items, skip unwanted items](938_trial01.js)
 
-trial 2 - [myself, JavaScript - recursion of left and right tree items, skip unwanted items, remove the result variable to save space](930_trial02.js)
+trial 2 - [myself, JavaScript - recursion of left and right tree items, skip unwanted items, remove the result variable to save space](938_trial02.js)
 
 [reference video](https://www.youtube.com/watch?v=uLVG45n4Sbg)
