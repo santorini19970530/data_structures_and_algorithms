@@ -21,10 +21,10 @@ function L_Search(A, x)
 
 ## Code Examples
 
-- [Linear Search C++ code (array index approach)](./linear_search/linear_search.cpp)
+- [Linear Search C++ code (array index approach)](/linear_search/linear_search.cpp)
 
 ## Leetcode Questions
 
-| Number |                     Question Link                      |           Solution            |
-| :----: | :----------------------------------------------------: | :---------------------------: |
-|  3110  | [Score of a String](../leetcode/3110/3110_question.md) | [Solution](../leetcode/3110/) |
+| Number |                     Question Link                      |                   Solution                    |
+| :----: | :----------------------------------------------------: | :-------------------------------------------: |
+|  3110  | [Score of a String](../leetcode/3110/3110_question.md) | [Solution](../leetcode/3110/3110_question.md) |

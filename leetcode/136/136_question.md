@@ -1,6 +1,6 @@
-# Question
+# Question 136
 
-136. Single Number
+[Single Number](https://leetcode.com/problems/single-number/description/)
 
 Easy
 
@@ -33,9 +33,9 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : myself
+Version 1 : [myself](/136_trial02.c)
 
-Version 2 : Pyhton
+Version 2 : [Pyhton](/136_trial03.py)
 
 [Neetcode](https://www.youtube.com/watch?v=qMPX1AOa83k)
 
