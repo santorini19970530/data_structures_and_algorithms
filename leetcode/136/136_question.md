@@ -33,9 +33,9 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : [myself, brute force array transition](136_trial02.js)
+Version 1 : [myself, brute force array transition](136_trial01.js)
 
-Version 2 : [C code](136_trial03.c)
+Version 2 : [C code](136_trial02.c)
 
 [Neetcode](https://www.youtube.com/watch?v=qMPX1AOa83k)
 

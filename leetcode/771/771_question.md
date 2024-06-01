@@ -1,6 +1,6 @@
-# Question
+# Question 771
 
-771. Jewels and Stones
+[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 Easy
 
@@ -28,6 +28,8 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : myself
+Version 1 : [myself, Linked list implementation by JavaScript](771_trial01.js)
 
-Version 2 : https://leetcode.com/problems/jewels-and-stones/discuss/1158207/771-jewels-and-stones-100-faster-c/
+Version 2 : [Brute force loop by C++](771_trial02.cpp)
+
+[Source](https://leetcode.com/problems/jewels-and-stones/discuss/1158207/771-jewels-and-stones-100-faster-c/)
