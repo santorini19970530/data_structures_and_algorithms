@@ -1,24 +1,10 @@
-<<<<<<< HEAD
+# Data Structures and Algorithms Exercise
 
-# Leetcode Challenges
+## Examples from UoLCS
 
-Challenge my life
+- Examples comes from CM1035 and CM2035 courses of University of Lodon, Computer Science
 
-## Easy
-
-| Number |                                                Question Link                                                |      Solution      |
-| :----: | :---------------------------------------------------------------------------------------------------------: | :----------------: |
-|  136   |                  [Single Number](https://leetcode.com/problems/single-number/description/)                  | [Solution](./136/) |
-|  938   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/?envType=daily-question&envId=2024-01-08) | [Solution](./938/) |
-|  771   |        [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/1142459221/)         | [Solution](./771/) |
-
-## =======
-
-## title: CM1035 Algorithm and Data Structure Code Implementation
-
-Implementation code algorithms and Data Structure
-
-# Course Syllabus
+## Exerciess by course syllabus
 
 | Topic | Name                                                |
 | :---: | --------------------------------------------------- |
@@ -33,6 +19,12 @@ Implementation code algorithms and Data Structure
 |   9   | Sorting Data II                                     |
 |  10   | Computational Complexity                            |
 
-University of Lodon, Computer Science
+## Leetcode Challenges
 
-> > > > > > > UoLCS_CM1035_Code_Implementation/main
+### Easy Level
+
+| Number |                                                Question Link                                                |      Solution      |
+| :----: | :---------------------------------------------------------------------------------------------------------: | :----------------: |
+|  136   |                  [Single Number](https://leetcode.com/problems/single-number/description/)                  | [Solution](./136/) |
+|  938   | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/?envType=daily-question&envId=2024-01-08) | [Solution](./938/) |
+|  771   |        [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/1142459221/)         | [Solution](./771/) |
