@@ -10,12 +10,51 @@
 
 ## PseudoCode
 
+- Iterative Approach
+
 ```
-function L_Search(A, x)
-    for 0 <= i < N
-        if(A[i] == x)
-            return i
-    return -1
+function LinearSearch(v, item)
+
+for (1 <= i <= LENGTH[v]) do
+
+  if v[i] = item then
+
+      return i
+
+  end if
+
+end for
+
+end function
+
+```
+
+- Recursive Approach
+
+```
+function Search(v, l, item)
+
+    n <- LENGTH[v]
+
+    if l > n then
+
+        return FALSE
+
+    else if v[l] = item then
+
+        return TRUE
+
+    end if
+
+    return Search(v, l+1, item)
+
+end function
+
+function LinearSearch(v, item)
+
+    return Search(v, 1, item)
+
+end function
 
 ```
 

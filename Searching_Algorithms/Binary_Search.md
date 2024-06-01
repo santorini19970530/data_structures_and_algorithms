@@ -8,12 +8,85 @@
 
 ## PseudoCode
 
+- Iterative Approach
+
 ```
-function L_Search(A, x)
-    for 0 <= i < N
-        if(A[i] == x)
-            return i
-    return -1
+function BinarySearch(v, item)
+
+    n <- LENGTH[v]
+
+    R <- n
+
+    L <- 1
+
+    while R >= L do
+
+        M <- floor( (L + R) / 2 )
+
+        if v[M] = item then
+
+            return TRUE
+
+        else if v[M] > item then
+
+            R <- M - 1
+
+        else
+
+            L <- M + 1
+
+        end if
+
+    end while
+
+    return FALSE
+
+end function
+
+```
+
+- Recursive Approach
+
+```
+function Search(v, item, L, R)
+
+    if (L > R) then
+
+        return FALSE
+
+    end if
+
+    M <- floor((L + R) / 2)
+
+    if v[M] = item then
+
+        return TRUE
+
+    else if v[M] >item then
+
+        R <- M -1
+
+    else
+
+        L <- M + 1
+
+    end if
+
+    return Search(v, item, L, R)
+
+end function
+
+function BinarySearch(v, item)
+
+    n <- LENGTH[v]
+
+    R <- n
+
+    L <- 1
+
+    return Search(v, item, L, R)
+
+end function
 
 ```
 
