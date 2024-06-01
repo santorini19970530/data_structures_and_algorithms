@@ -1,6 +1,6 @@
-# Question
+# Question 3110
 
-3110. Score of a String
+[Score of a String](https://leetcode.com/problems/score-of-a-string/)
 
 Easy
 
@@ -42,6 +42,4 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : myself
-
-Version 2 : https://leetcode.com/problems/jewels-and-stones/discuss/1158207/771-jewels-and-stones-100-faster-c/
+Version 1 : [myself](/3110_trial01.cpp)

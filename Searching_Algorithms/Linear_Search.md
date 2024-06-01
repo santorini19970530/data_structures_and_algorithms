@@ -25,6 +25,6 @@ function L_Search(A, x)
 
 ## Leetcode Questions
 
-| Question Number | Name              | Link                                                                 |
-| :-------------: | ----------------- | -------------------------------------------------------------------- |
-|      3110       | Score of a String | [Link](https://leetcode.com/problems/score-of-a-string/description/) |
+| Number |                     Question Link                      |           Solution           |
+| :----: | :----------------------------------------------------: | :--------------------------: |
+|  3110  | [Score of a String](../leetcode/3110/3110_question.md) | [Solution](./leetcode/3110/) |
