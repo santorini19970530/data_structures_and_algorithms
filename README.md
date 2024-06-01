@@ -53,5 +53,5 @@
 |  938   |    [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)    |  [Solution](/leetcode/938/938_question.md)  |
 |  771   |   [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)   |  [Solution](/leetcode/771/771_question.md)  |
 |  3110  |   [Score of a String](https://leetcode.com/problems/score-of-a-string/)   | [Solution](/leetcode/3110/3110_question.md) |
-|  704   |  [Binary Search](https://leetcode.com/problems/binary-search/) a String]  |  [Solution](/leetcode/704/704_question.md)  |
+|  704   |       [Binary Search](https://leetcode.com/problems/binary-search/)       |  [Solution](/leetcode/704/704_question.md)  |
 |  195   |          [Tenth Line](https://leetcode.com/problems/tenth-line/)          |  [Solution](/leetcode/195/195_question.md)  |
