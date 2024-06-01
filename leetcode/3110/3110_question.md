@@ -42,4 +42,4 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : [myself](/3110_trial01.cpp)
+Version 1 : [myself, using C++ pointer](3110_trial01.cpp)

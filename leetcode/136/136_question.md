@@ -33,9 +33,9 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : [myself](/136_trial02.c)
+Version 1 : [myself, brute force array transition](136_trial02.js)
 
-Version 2 : [Pyhton](/136_trial03.py)
+Version 2 : [C code](136_trial03.c)
 
 [Neetcode](https://www.youtube.com/watch?v=qMPX1AOa83k)
 
@@ -56,4 +56,7 @@ Java
 
 [Nikhil Lohia](https://www.youtube.com/watch?v=KNOw_goVGas)
 
-Version 3 : [DataDraft](https://www.youtube.com/watch?v=d9yH_X0p7mI)
+Version 3 : [insert hash element, if match next futher element, remove element in hash, finally get the result
+](136_trial03.py)
+
+Source - [DataDraft](https://www.youtube.com/watch?v=d9yH_X0p7mI)
