@@ -22,7 +22,7 @@
 
 1. [Linear Search](./Linear_Search.md)
 
-2. Binary Search
+2. [Binary Search](./Binary_Search.md)
 
 3. Interpolation Search
 

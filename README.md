@@ -6,6 +6,8 @@
 
 - [Linear Search](/Searching_Algorithms/Linear_Search.md)
 
+- [Binary Search](/Searching_Algorithms/Binary_Search.md)
+
 ## [Graph Data Structures]()
 
 - [Binary Search Tree](/leetcode/938/938_question.md)
