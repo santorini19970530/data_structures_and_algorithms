@@ -1,0 +1,40 @@
+Example from video
+
+new Queue q
+ENQUEUE[1, q]
+ENQUEUE[1, q]
+DEQUQUE[q]
+ENQUEUE[1, q]
+
+x = HEAD[q]
+
+// x is 2.
+
+Review question 7
+
+new Queue q
+ENQUEUE[1, q]
+
+for 1 <= i <= 5 do
+  ENQUEUE[i x HEAD[q]]
+  DEQUEUE[q]
+end for
+
+x = HEAD[q]
+
+Review question 9
+
+function qFunc(n)
+  for 1 <= i <= n do
+    ENQUEUE[i mod 2, q]
+  end for
+
+  x = 0
+
+  while EMPTY[q] = FALSE do
+    x = x + HEAD[q]
+    DEQUEUE[q]
+  end while
+
+  return x
+end function

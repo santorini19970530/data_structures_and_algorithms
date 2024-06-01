@@ -1,0 +1,74 @@
+Video example 1
+
+---
+
+new Stack s
+
+PUSH[2, s]
+PUSH[4, s]
+POP[s]
+POP[s]
+
+x = TOP[s]
+x = EMPTY[s]
+
+// finally, x is true
+
+Video example 2
+
+--- 
+
+new Stack s
+
+PUSH[2, s]
+
+for 3 <= i < 10 do
+  POP[s]
+  PUSH[i, s]
+end for
+
+x = TOP[s]
+
+// finally, x is 9
+
+Review Question 8
+
+---
+
+new Stack s
+PUSH[1, s]
+
+for 1 <= i <= 4 do
+  PUSH[i, s]
+end for
+
+x = 1
+
+while EMPTY[s] = FALSE do
+  x = x + TOP[s]
+  POP[s]
+end while
+
+Review Question 10
+---
+
+funciton Thing(n)
+  if n < 3 then
+    return 1
+  end if
+
+  new Stack s
+
+  PUSH[1, s]
+  PUSH[1, s]
+
+  for 3 <= i <= n do
+    x = TOP[s]
+    POP[s]
+    y = TOP[s]
+    PUSH[x, s]
+    PUSH[x + y, s]
+  end for
+
+  return TOP[s]
+end function
