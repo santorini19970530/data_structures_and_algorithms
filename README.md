@@ -49,11 +49,18 @@
 
 ### Easy Level
 
-| Number |                               Question Link                               |                  Solution                   |
-| :----: | :-----------------------------------------------------------------------: | :-----------------------------------------: |
-|  136   | [Single Number](https://leetcode.com/problems/single-number/description/) |  [Solution](/leetcode/136/136_question.md)  |
-|  938   |    [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)    |  [Solution](/leetcode/938/938_question.md)  |
-|  771   |   [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)   |  [Solution](/leetcode/771/771_question.md)  |
-|  3110  |   [Score of a String](https://leetcode.com/problems/score-of-a-string/)   | [Solution](/leetcode/3110/3110_question.md) |
-|  704   |       [Binary Search](https://leetcode.com/problems/binary-search/)       |  [Solution](/leetcode/704/704_question.md)  |
-|  195   |          [Tenth Line](https://leetcode.com/problems/tenth-line/)          |  [Solution](/leetcode/195/195_question.md)  |
+| Number |                                  Question Link                                  |                  Solution                   |
+| :----: | :-----------------------------------------------------------------------------: | :-----------------------------------------: |
+|  136   |    [Single Number](https://leetcode.com/problems/single-number/description/)    |  [Solution](/leetcode/136/136_question.md)  |
+|  938   |       [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)       |  [Solution](/leetcode/938/938_question.md)  |
+|  771   |      [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)      |  [Solution](/leetcode/771/771_question.md)  |
+|  3110  |      [Score of a String](https://leetcode.com/problems/score-of-a-string/)      | [Solution](/leetcode/3110/3110_question.md) |
+|  704   |          [Binary Search](https://leetcode.com/problems/binary-search/)          |  [Solution](/leetcode/704/704_question.md)  |
+|  195   |             [Tenth Line](https://leetcode.com/problems/tenth-line/)             |  [Solution](/leetcode/195/195_question.md)  |
+|   35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |   [Solution](/leetcode/35/35_question.md)   |
+
+### Medium Level
+
+| Number |                              Question Link                              |                Solution                 |
+| :----: | :---------------------------------------------------------------------: | :-------------------------------------: |
+|   74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](/leetcode/74/74_question.md) |

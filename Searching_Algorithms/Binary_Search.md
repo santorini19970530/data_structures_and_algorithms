@@ -98,6 +98,8 @@ end function
 
 ## Leetcode Questions
 
-| Number |                         Question Link                         |                  Solution                   |
-| :----: | :-----------------------------------------------------------: | :-----------------------------------------: |
-|  704   | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](../leetcode/704/704_question.md) |
+| Number |                                  Question Link                                  |                  Solution                   |
+| :----: | :-----------------------------------------------------------------------------: | :-----------------------------------------: |
+|  704   |          [Binary Search](https://leetcode.com/problems/binary-search/)          | [Solution](../leetcode/704/704_question.md) |
+|   35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |  [Solution](../leetcode/35/35_question.md)  |
+|   74   |     [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)     |  [Solution](../leetcode/74/74_question.md)  |
