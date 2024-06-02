@@ -1,54 +1,49 @@
-# Question 3110
+# Question 344
 
-[Score of a String](https://leetcode.com/problems/score-of-a-string/)
+[Reverse String](https://leetcode.com/problems/reverse-string/)
 
 ## What I have used
 
-- Linear Search esoterica
-
-- Vector
+- Vector (transverse through)
 
 ## Description
 
-Easy
+Write a function that reverses a string.
 
-You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent characters.
+The input string is given as an array of characters s.
 
-Return the score of s.
+You must do this by modifying the input array in-place with O(1) extra memory.
 
 Example 1:
 
 ```
-Input: s = "hello"
+Input: s = ["h","e","l","l","o"]
 
-Output: 13
-
-Explanation:
-
-The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+Output: ["o","l","l","e","h"]
 
 ```
 
 Example 2:
 
 ```
-Input: s = "zaz"
+Input: s = ["H","a","n","n","a","h"]
 
-Output: 50
-
-Explanation:
-
-The ASCII values of the characters in s are: 'z' = 122, 'a' = 97. So, the score of s would be |122 - 97| + |97 - 122| = 25 + 25 = 50.
-
+Output: ["h","a","n","n","a","H"]
 
 ```
 
 Constraints:
 
-- 2 <= s.length <= 100
+- 1 <= s.length <= 10^5
 
-- s consists only of lowercase English letters.
+- s[i] is a printable ascii character.
 
 # Source of solutions
 
-Version 1 : [myself, using C++ pointer](3110_trial01.cpp)
+Version 1 : [myself, using C++ pointer](344_trial01.cpp)
+
+- since this problem requires space complexity O(1), stack (need one more array to store) is not possible.
+
+Version 2: use reverse()
+
+[C++'s reverse](https://en.cppreference.com/w/cpp/algorithm/reverse)
