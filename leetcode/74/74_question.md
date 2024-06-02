@@ -2,6 +2,16 @@
 
 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
+## What I have used
+
+- Linear Search
+
+- Binary Search
+
+- 2D Vectors
+
+## Description
+
 Easy
 
 You are given an m x n integer matrix matrix with the following two properties:

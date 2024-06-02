@@ -2,6 +2,8 @@
 
 [Tenth Line](https://leetcode.com/problems/tenth-line/)
 
+## Description
+
 Easy
 
 Given a text file file.txt, print just the 10th line of the file.

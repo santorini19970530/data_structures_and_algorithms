@@ -2,6 +2,14 @@
 
 [Score of a String](https://leetcode.com/problems/score-of-a-string/)
 
+## What I have used
+
+- Linear Search esoterica
+
+- Vector
+
+## Description
+
 Easy
 
 You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent characters.
@@ -38,6 +46,7 @@ The ASCII values of the characters in s are: 'z' = 122, 'a' = 97. So, the score 
 Constraints:
 
 - 2 <= s.length <= 100
+
 - s consists only of lowercase English letters.
 
 # Source of solutions

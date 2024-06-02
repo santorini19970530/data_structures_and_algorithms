@@ -2,6 +2,14 @@
 
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
+## What I have used
+
+- Binary Search esoterica
+
+- Vector
+
+## Description
+
 Easy
 
 Given a sorted array of distinct integers and a target value, return the index if the target is found.

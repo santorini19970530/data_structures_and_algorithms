@@ -2,6 +2,18 @@
 
 [Single Number](https://leetcode.com/problems/single-number/description/)
 
+## What I have used
+
+- Vector
+
+- Linear Search
+
+- Binary Characters
+
+- Hash
+
+## Description
+
 Easy
 
 Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one.
