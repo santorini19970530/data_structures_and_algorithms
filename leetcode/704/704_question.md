@@ -40,4 +40,8 @@ Constraints:
 
 # Source of solutions
 
-Version 1 : [myself, using C++ iteration approach](704_trial01.cpp)
+Version 1 : [myself, using C++](704_trial01.cpp)
+
+- due to input control, only iterative array approach can be used
+
+Version 2 : [myself, using C](704_trial02.c)
