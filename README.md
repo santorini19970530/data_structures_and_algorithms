@@ -8,9 +8,25 @@
 
 - [Binary Search](/Searching_Algorithms/Binary_Search.md)
 
-## [Graph Data Structures]()
+## [Data Structures](./Data_Structures/Data_Structures.md)
 
-- [Binary Search Tree](/leetcode/938/938_question.md)
+1. Linear Data Structures
+
+   1. Linked Lists
+
+   2. [Vectors](./Data_Structures/Vectors.md)
+
+   3. [Stacks (under construction)](./Data_Structures/Stacks.md)
+
+   4. [Queues (under construction)](./Data_Structures/Queues.md)
+
+2. Non-Linear Data Structures
+
+   1. Trees
+
+   2. [Binary Search Tree](/leetcode/938/938_question.md)
+
+   3. Graphs
 
 ## Examples from UoLCS
 
@@ -33,17 +49,17 @@
 
 ### ADS2 CM2035 Exercises
 
-| Topic | Name                              |
-| :---: | --------------------------------- |
-|   1   | Analysis of Algoriths             |
-|   2   | Recursive Algorithms              |
-|   3   | Comparison Sorting Algorithms     |
-|   4   | Non-Comparison Sorting Algorithms |
-|   5   | [Hashings](./HashTables/)         |
-|   6   | Linked Lists                      |
-|   7   | Trees                             |
-|   8   | Heaps                             |
-|   9   | Graphs                            |
+| Topic | Name                                      |
+| :---: | ----------------------------------------- |
+|   1   | Analysis of Algoriths                     |
+|   2   | Recursive Algorithms                      |
+|   3   | Comparison Sorting Algorithms             |
+|   4   | Non-Comparison Sorting Algorithms         |
+|   5   | [Hashings](./Data_Structures/HashTables/) |
+|   6   | Linked Lists                              |
+|   7   | Trees                                     |
+|   8   | Heaps                                     |
+|   9   | Graphs                                    |
 
 ## Leetcode Challenges
 
