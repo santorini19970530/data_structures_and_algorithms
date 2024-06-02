@@ -37,13 +37,13 @@
 
 ## Code Examples
 
-- [C++](Vector/vectors.cpp)
+- [C++](Vectors/vectors.cpp)
 
-- [Java](Vector/vectors.java)
+- [Java](Vectors/vectors.java)
 
-- [JavaScript](Vector/vectors.js)
+- [JavaScript](Vectors/vectors.js)
 
-- [Python](Vector/vectors.py)
+- [Python](Vectors/vectors.py)
 
 ```
 Examples in lecture videos
