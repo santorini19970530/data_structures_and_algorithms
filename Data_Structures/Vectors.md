@@ -71,7 +71,7 @@ x = w[4]
 
 ```
 
-- Leetcode questions - TBD
+- Leetcode questions
 
 | Number |                          Question Link                          |                  Solution                   |
 | :----: | :-------------------------------------------------------------: | :-----------------------------------------: |
