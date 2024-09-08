@@ -1,5 +1,3 @@
-.DS_Store
-**/LinkedLists/
+**.DS_Store
 **/Graphs/
-**/BinaryHeaps/
 **.out
